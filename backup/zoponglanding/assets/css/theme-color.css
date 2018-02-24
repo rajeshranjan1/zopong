@@ -1,0 +1,1462 @@
+.theme-carrot .dt-btn:hover {
+    border-color: #e67e22
+}
+
+.theme-carrot .dt-btn:after {
+    background: #e67e22
+}
+
+.theme-carrot .dt-btn-white:hover {
+    border-color: #fff
+}
+
+.theme-carrot .btn-skew {
+    border: 2px solid #e67e22
+}
+
+.theme-carrot .btn-skew:after {
+    background: #e67e22
+}
+
+.theme-carrot .section-title:after {
+    background: #e67e22!important
+}
+
+.theme-carrot .dt-social-link li a:hover {
+    color: #e67e22
+}
+
+.theme-carrot .navbar .navbar-nav li a:hover {
+    color: #e67e22!important
+}
+
+.theme-carrot .navbar .navbar-nav li .child-menu li:hover {
+    background-color: #e67e22
+}
+
+.theme-carrot .navbar .navbar-nav li .child-menu li:hover a {
+    color: #fff!important;
+    display: block
+}
+
+.theme-carrot .feature .overlay-content {
+    background-color: rgba(230, 126, 34, .8)
+}
+
+.theme-carrot .feature-item .featured .item-icon {
+    border-color: #e67e22
+}
+
+.theme-carrot .feature-item .featured .item-icon i,
+.theme-carrot .feature-item .featured:hover .item-icon {
+    background: #e67e22
+}
+
+.theme-carrot .counter .count-item {
+    border-color: #e67e22
+}
+
+.theme-carrot .counter .count-item:after,
+.theme-carrot .counter .count-item:before {
+    background: #e67e22
+}
+
+.theme-carrot progress {
+    background-color: #e67e22
+}
+
+.theme-carrot progress::-webkit-progress-value {
+    background-color: #e67e22
+}
+
+.theme-carrot progress::-moz-progress-bar {
+    background-color: #e67e22
+}
+
+.theme-carrot .owl-dots .owl-dot.active span,
+.theme-carrot .owl-dots .owl-dot:hover span {
+    background: #e67e22
+}
+
+.theme-carrot #letest-news .news-caption .news-title a:hover,
+.theme-carrot .team .team-member .overlay .name h3 {
+    color: #e67e22
+}
+
+.theme-carrot .map {
+    background: #e67e22
+}
+
+.theme-carrot #feature-two .feature .feature-box:hover i,
+.theme-carrot .copyright-bar p a,
+.theme-carrot .dt-service-menu li a:hover,
+.theme-carrot .footer-menu li a:hover,
+.theme-carrot .news-item .news-content span {
+    color: #e67e22
+}
+
+.theme-carrot #theme .theme-discription p:before {
+    background: #e67e22
+}
+
+.theme-carrot .aboute-caption .aboute-title span,
+.theme-carrot .client-details .details .dt-social-link li a:hover,
+.theme-carrot .client-details .details h5 {
+    color: #e67e22
+}
+
+.theme-carrot .aboute-caption .aboute-details p:before {
+    background: #e67e22
+}
+
+.theme-carrot #team-two .swiper-slide .slider-content h4 {
+    color: #e67e22
+}
+
+.theme-carrot .design-item .design .icon-box:hover {
+    background-color: rgba(230, 126, 34, .2)
+}
+
+.theme-carrot .design-item .design .icon-box:hover:after {
+    background-color: rgba(230, 126, 34, .4)
+}
+
+.theme-carrot .design-item .design .icon-box:hover i {
+    background: #e67e22
+}
+
+.theme-carrot .design-content .desing-caption span,
+.theme-carrot .design-details li i {
+    color: #e67e22
+}
+
+.theme-carrot #feature-top-three .feature-items .box .feature-thumb .overlay {
+    background-color: rgba(230, 126, 34, .7)
+}
+
+.theme-carrot .insu-support .support:hover .support-logo i,
+.theme-carrot .insu-support .support:hover .support-title h5,
+.theme-carrot .page-banner .banner-title p span {
+    color: #e67e22
+}
+
+.theme-carrot .widget .widget-title:after {
+    background: #e67e22
+}
+
+.theme-carrot .download li:hover a,
+.theme-carrot .download li:hover i,
+.theme-carrot .widget_nav_menu ul li a:hover {
+    color: #e67e22
+}
+
+.theme-carrot .dt-tag a:hover {
+    background: #e67e22
+}
+
+.theme-carrot .blog-all-item .news .post-date a,
+.theme-carrot .blog-all-item .news h3 a:hover,
+.theme-carrot .widget_archive ul li:hover a,
+.theme-carrot .widget_archive ul li:hover p,
+.theme-carrot .widget_recent_entries .resent-post .post-content .post-date li,
+.theme-carrot .widget_recent_entries .resent-post .post-content h5 a:hover {
+    color: #e67e22
+}
+
+.theme-carrot .page-control .control li:hover {
+    background: #e67e22
+}
+
+.theme-carrot .blog-item-two .news .news-post h3 a:hover,
+.theme-carrot .comments .media-list .media-body .comment-date li {
+    color: #e67e22
+}
+
+.theme-carrot .comments h3:after,
+.theme-carrot .user-comments h3:after {
+    background: #e67e22
+}
+
+.theme-carrot .expart-team .team-member .overlay h3 {
+    color: #e67e22
+}
+
+.theme-carrot .expart-team .team-member .overlay span:after {
+    background: #e67e22
+}
+
+.theme-carrot .team-details .team-caption .content .dt-social-link li a:hover,
+.theme-carrot .team-details .team-caption .content span {
+    color: #e67e22
+}
+
+.theme-carrot .contact .contact-title h3:after {
+    background: #e67e22
+}
+
+.theme-carrot .contact .form-input input,
+.theme-carrot .contact .textarea #dt-massage {
+    outline-color: #e67e22
+}
+
+.theme-carrot .contact .contact-btn {
+    background: #e67e22
+}
+
+.theme-carrot .contact-address .contant-info .icon i {
+    color: #e67e22
+}
+
+.theme-alizarin .dt-btn:hover {
+    border-color: #e74c3c
+}
+
+.theme-alizarin .dt-btn:after {
+    background: #e74c3c
+}
+
+.theme-alizarin .dt-btn-white:hover {
+    border-color: #fff
+}
+
+.theme-alizarin .btn-skew {
+    border: 2px solid #e74c3c
+}
+
+.theme-alizarin .btn-skew:after {
+    background: #e74c3c
+}
+
+.theme-alizarin .section-title:after {
+    background: #e74c3c!important
+}
+
+.theme-alizarin .dt-social-link li a:hover {
+    color: #e74c3c
+}
+
+.theme-alizarin .navbar .navbar-nav li a:hover {
+    color: #e74c3c!important
+}
+
+.theme-alizarin .navbar .navbar-nav li .child-menu li:hover {
+    background-color: #e74c3c
+}
+
+.theme-alizarin .navbar .navbar-nav li .child-menu li:hover a {
+    color: #fff!important;
+    display: block
+}
+
+.theme-alizarin .feature .overlay-content {
+    background-color: rgba(231, 76, 60, .8)
+}
+
+.theme-alizarin .feature-item .featured .item-icon {
+    border-color: #e74c3c
+}
+
+.theme-alizarin .feature-item .featured .item-icon i,
+.theme-alizarin .feature-item .featured:hover .item-icon {
+    background: #e74c3c
+}
+
+.theme-alizarin .counter .count-item {
+    border-color: #e74c3c
+}
+
+.theme-alizarin .counter .count-item:after,
+.theme-alizarin .counter .count-item:before {
+    background: #e74c3c
+}
+
+.theme-alizarin progress {
+    background-color: #e74c3c
+}
+
+.theme-alizarin progress::-webkit-progress-value {
+    background-color: #e74c3c
+}
+
+.theme-alizarin progress::-moz-progress-bar {
+    background-color: #e74c3c
+}
+
+.theme-alizarin .owl-dots .owl-dot.active span,
+.theme-alizarin .owl-dots .owl-dot:hover span {
+    background: #e74c3c
+}
+
+.theme-alizarin #letest-news .news-caption .news-title a:hover,
+.theme-alizarin .team .team-member .overlay .name h3 {
+    color: #e74c3c
+}
+
+.theme-alizarin .map {
+    background: #e74c3c
+}
+
+.theme-alizarin #feature-two .feature .feature-box:hover i,
+.theme-alizarin .copyright-bar p a,
+.theme-alizarin .dt-service-menu li a:hover,
+.theme-alizarin .footer-menu li a:hover,
+.theme-alizarin .news-item .news-content span {
+    color: #e74c3c
+}
+
+.theme-alizarin #theme .theme-discription p:before {
+    background: #e74c3c
+}
+
+.theme-alizarin .aboute-caption .aboute-title span,
+.theme-alizarin .client-details .details .dt-social-link li a:hover,
+.theme-alizarin .client-details .details h5 {
+    color: #e74c3c
+}
+
+.theme-alizarin .aboute-caption .aboute-details p:before {
+    background: #e74c3c
+}
+
+.theme-alizarin #team-two .swiper-slide .slider-content h4 {
+    color: #e74c3c
+}
+
+.theme-alizarin .design-item .design .icon-box:hover {
+    background-color: rgba(231, 76, 60, .2)
+}
+
+.theme-alizarin .design-item .design .icon-box:hover:after {
+    background-color: rgba(231, 76, 60, .4)
+}
+
+.theme-alizarin .design-item .design .icon-box:hover i {
+    background: #e74c3c
+}
+
+.theme-alizarin .design-content .desing-caption span,
+.theme-alizarin .design-details li i {
+    color: #e74c3c
+}
+
+.theme-alizarin #feature-top-three .feature-items .box .feature-thumb .overlay {
+    background-color: rgba(230, 126, 34, .7)
+}
+
+.theme-alizarin .insu-support .support:hover .support-logo i,
+.theme-alizarin .insu-support .support:hover .support-title h5,
+.theme-alizarin .page-banner .banner-title p span {
+    color: #e74c3c
+}
+
+.theme-alizarin .widget .widget-title:after {
+    background: #e74c3c
+}
+
+.theme-alizarin .download li:hover a,
+.theme-alizarin .download li:hover i,
+.theme-alizarin .widget_nav_menu ul li a:hover {
+    color: #e74c3c
+}
+
+.theme-alizarin .dt-tag a:hover {
+    background: #e74c3c
+}
+
+.theme-alizarin .blog-all-item .news .post-date a,
+.theme-alizarin .blog-all-item .news h3 a:hover,
+.theme-alizarin .widget_archive ul li:hover a,
+.theme-alizarin .widget_archive ul li:hover p,
+.theme-alizarin .widget_recent_entries .resent-post .post-content .post-date li,
+.theme-alizarin .widget_recent_entries .resent-post .post-content h5 a:hover {
+    color: #e74c3c
+}
+
+.theme-alizarin .page-control .control li:hover {
+    background: #e74c3c
+}
+
+.theme-alizarin .blog-item-two .news .news-post h3 a:hover,
+.theme-alizarin .comments .media-list .media-body .comment-date li {
+    color: #e74c3c
+}
+
+.theme-alizarin .comments h3:after,
+.theme-alizarin .user-comments h3:after {
+    background: #e74c3c
+}
+
+.theme-alizarin .expart-team .team-member .overlay h3 {
+    color: #e74c3c
+}
+
+.theme-alizarin .expart-team .team-member .overlay span:after {
+    background: #e74c3c
+}
+
+.theme-alizarin .team-details .team-caption .content .dt-social-link li a:hover,
+.theme-alizarin .team-details .team-caption .content span {
+    color: #e74c3c
+}
+
+.theme-alizarin .contact .contact-title h3:after {
+    background: #e74c3c
+}
+
+.theme-alizarin .contact .form-input input,
+.theme-alizarin .contact .textarea #dt-massage {
+    outline-color: #e74c3c
+}
+
+.theme-alizarin .contact .contact-btn {
+    background: #e74c3c
+}
+
+.theme-alizarin .contact-address .contant-info .icon i {
+    color: #e74c3c
+}
+
+.theme-amethyst .dt-btn:hover {
+    border-color: #9b59b6
+}
+
+.theme-amethyst .dt-btn:after {
+    background: #9b59b6
+}
+
+.theme-amethyst .dt-btn-white:hover {
+    border-color: #fff
+}
+
+.theme-amethyst .btn-skew {
+    border: 2px solid #9b59b6
+}
+
+.theme-amethyst .btn-skew:after {
+    background: #9b59b6
+}
+
+.theme-amethyst .section-title:after {
+    background: #9b59b6!important
+}
+
+.theme-amethyst .dt-social-link li a:hover {
+    color: #9b59b6
+}
+
+.theme-amethyst .navbar .navbar-nav li a:hover {
+    color: #9b59b6!important
+}
+
+.theme-amethyst .navbar .navbar-nav li .child-menu li:hover {
+    background-color: #9b59b6
+}
+
+.theme-amethyst .navbar .navbar-nav li .child-menu li:hover a {
+    color: #fff!important;
+    display: block
+}
+
+.theme-amethyst .feature .overlay-content {
+    background-color: rgba(155, 89, 182, .8)
+}
+
+.theme-amethyst .feature-item .featured .item-icon {
+    border-color: #9b59b6
+}
+
+.theme-amethyst .feature-item .featured .item-icon i,
+.theme-amethyst .feature-item .featured:hover .item-icon {
+    background: #9b59b6
+}
+
+.theme-amethyst .counter .count-item {
+    border-color: #9b59b6
+}
+
+.theme-amethyst .counter .count-item:after,
+.theme-amethyst .counter .count-item:before {
+    background: #9b59b6
+}
+
+.theme-amethyst progress {
+    background-color: #9b59b6
+}
+
+.theme-amethyst progress::-webkit-progress-value {
+    background-color: #9b59b6
+}
+
+.theme-amethyst progress::-moz-progress-bar {
+    background-color: #9b59b6
+}
+
+.theme-amethyst .owl-dots .owl-dot.active span,
+.theme-amethyst .owl-dots .owl-dot:hover span {
+    background: #9b59b6
+}
+
+.theme-amethyst #letest-news .news-caption .news-title a:hover,
+.theme-amethyst .team .team-member .overlay .name h3 {
+    color: #9b59b6
+}
+
+.theme-amethyst .map {
+    background: #9b59b6
+}
+
+.theme-amethyst #feature-two .feature .feature-box:hover i,
+.theme-amethyst .copyright-bar p a,
+.theme-amethyst .dt-service-menu li a:hover,
+.theme-amethyst .footer-menu li a:hover,
+.theme-amethyst .news-item .news-content span {
+    color: #9b59b6
+}
+
+.theme-amethyst #theme .theme-discription p:before {
+    background: #9b59b6
+}
+
+.theme-amethyst .aboute-caption .aboute-title span,
+.theme-amethyst .client-details .details .dt-social-link li a:hover,
+.theme-amethyst .client-details .details h5 {
+    color: #9b59b6
+}
+
+.theme-amethyst .aboute-caption .aboute-details p:before {
+    background: #9b59b6
+}
+
+.theme-amethyst #team-two .swiper-slide .slider-content h4 {
+    color: #9b59b6
+}
+
+.theme-amethyst .design-item .design .icon-box:hover {
+    background-color: rgba(231, 76, 60, .2)
+}
+
+.theme-amethyst .design-item .design .icon-box:hover:after {
+    background-color: rgba(231, 76, 60, .4)
+}
+
+.theme-amethyst .design-item .design .icon-box:hover i {
+    background: #9b59b6
+}
+
+.theme-amethyst .design-content .desing-caption span,
+.theme-amethyst .design-details li i {
+    color: #9b59b6
+}
+
+.theme-amethyst #feature-top-three .feature-items .box .feature-thumb .overlay {
+    background-color: rgba(230, 126, 34, .7)
+}
+
+.theme-amethyst .insu-support .support:hover .support-logo i,
+.theme-amethyst .insu-support .support:hover .support-title h5,
+.theme-amethyst .page-banner .banner-title p span {
+    color: #9b59b6
+}
+
+.theme-amethyst .widget .widget-title:after {
+    background: #9b59b6
+}
+
+.theme-amethyst .download li:hover a,
+.theme-amethyst .download li:hover i,
+.theme-amethyst .widget_nav_menu ul li a:hover {
+    color: #9b59b6
+}
+
+.theme-amethyst .dt-tag a:hover {
+    background: #9b59b6
+}
+
+.theme-amethyst .blog-all-item .news .post-date a,
+.theme-amethyst .blog-all-item .news h3 a:hover,
+.theme-amethyst .widget_archive ul li:hover a,
+.theme-amethyst .widget_archive ul li:hover p,
+.theme-amethyst .widget_recent_entries .resent-post .post-content .post-date li,
+.theme-amethyst .widget_recent_entries .resent-post .post-content h5 a:hover {
+    color: #9b59b6
+}
+
+.theme-amethyst .page-control .control li:hover {
+    background: #9b59b6
+}
+
+.theme-amethyst .blog-item-two .news .news-post h3 a:hover,
+.theme-amethyst .comments .media-list .media-body .comment-date li {
+    color: #9b59b6
+}
+
+.theme-amethyst .comments h3:after,
+.theme-amethyst .user-comments h3:after {
+    background: #9b59b6
+}
+
+.theme-amethyst .expart-team .team-member .overlay h3 {
+    color: #9b59b6
+}
+
+.theme-amethyst .expart-team .team-member .overlay span:after {
+    background: #9b59b6
+}
+
+.theme-amethyst .team-details .team-caption .content .dt-social-link li a:hover,
+.theme-amethyst .team-details .team-caption .content span {
+    color: #9b59b6
+}
+
+.theme-amethyst .contact .contact-title h3:after {
+    background: #9b59b6
+}
+
+.theme-amethyst .contact .form-input input,
+.theme-amethyst .contact .textarea #dt-massage {
+    outline-color: #9b59b6
+}
+
+.theme-amethyst .contact .contact-btn {
+    background: #9b59b6
+}
+
+.theme-amethyst .contact-address .contant-info .icon i {
+    color: #9b59b6
+}
+
+.theme-river .dt-btn:hover {
+    border-color: #fb0
+}
+
+.theme-river .dt-btn:after {
+    background: #fb0
+}
+
+.theme-river .dt-btn-white:hover {
+    border-color: #fff
+}
+
+.theme-river .btn-skew {
+    border: 2px solid #fb0
+}
+
+.theme-river .btn-skew:after {
+    background: #fb0
+}
+
+.theme-river .section-title:after {
+    background: #fb0!important
+}
+
+.theme-river .dt-social-link li a:hover {
+    color: #fb0
+}
+
+.theme-river .navbar .navbar-nav li a:hover {
+    color: #fb0!important
+}
+
+.theme-river .navbar .navbar-nav li .child-menu li:hover {
+    background-color: #fb0
+}
+
+.theme-river .navbar .navbar-nav li .child-menu li:hover a {
+    color: #fff!important;
+    display: block
+}
+
+.theme-river .feature .overlay-content {
+    background-color: rgba(255, 187, 0, .8)
+}
+
+.theme-river .feature-item .featured .item-icon {
+    border-color: #fb0
+}
+
+.theme-river .feature-item .featured .item-icon i,
+.theme-river .feature-item .featured:hover .item-icon {
+    background: #fb0
+}
+
+.theme-river .counter .count-item {
+    border-color: #fb0
+}
+
+.theme-river .counter .count-item:after,
+.theme-river .counter .count-item:before {
+    background: #fb0
+}
+
+.theme-river progress {
+    background-color: #fb0
+}
+
+.theme-river progress::-webkit-progress-value {
+    background-color: #fb0
+}
+
+.theme-river progress::-moz-progress-bar {
+    background-color: #fb0
+}
+
+.theme-river .owl-dots .owl-dot.active span,
+.theme-river .owl-dots .owl-dot:hover span {
+    background: #fb0
+}
+
+.theme-river #letest-news .news-caption .news-title a:hover,
+.theme-river .team .team-member .overlay .name h3 {
+    color: #fb0
+}
+
+.theme-river .map {
+    background: #fb0
+}
+
+.theme-river #feature-two .feature .feature-box:hover i,
+.theme-river .copyright-bar p a,
+.theme-river .dt-service-menu li a:hover,
+.theme-river .footer-menu li a:hover,
+.theme-river .news-item .news-content span {
+    color: #fb0
+}
+
+.theme-river #theme .theme-discription p:before {
+    background: #fb0
+}
+
+.theme-river .aboute-caption .aboute-title span,
+.theme-river .client-details .details .dt-social-link li a:hover,
+.theme-river .client-details .details h5 {
+    color: #fb0
+}
+
+.theme-river .aboute-caption .aboute-details p:before {
+    background: #fb0
+}
+
+.theme-river #team-two .swiper-slide .slider-content h4 {
+    color: #fb0
+}
+
+.theme-river .design-item .design .icon-box:hover {
+    background-color: rgba(231, 76, 60, .2)
+}
+
+.theme-river .design-item .design .icon-box:hover:after {
+    background-color: rgba(231, 76, 60, .4)
+}
+
+.theme-river .design-item .design .icon-box:hover i {
+    background: #fb0
+}
+
+.theme-river .design-content .desing-caption span,
+.theme-river .design-details li i {
+    color: #fb0
+}
+
+.theme-river #feature-top-three .feature-items .box .feature-thumb .overlay {
+    background-color: rgba(230, 126, 34, .7)
+}
+
+.theme-river .insu-support .support:hover .support-logo i,
+.theme-river .insu-support .support:hover .support-title h5,
+.theme-river .page-banner .banner-title p span {
+    color: #fb0
+}
+
+.theme-river .widget .widget-title:after {
+    background: #fb0
+}
+
+.theme-river .download li:hover a,
+.theme-river .download li:hover i,
+.theme-river .widget_nav_menu ul li a:hover {
+    color: #fb0
+}
+
+.theme-river .dt-tag a:hover {
+    background: #fb0
+}
+
+.theme-river .blog-all-item .news .post-date a,
+.theme-river .blog-all-item .news h3 a:hover,
+.theme-river .widget_archive ul li:hover a,
+.theme-river .widget_archive ul li:hover p,
+.theme-river .widget_recent_entries .resent-post .post-content .post-date li,
+.theme-river .widget_recent_entries .resent-post .post-content h5 a:hover {
+    color: #fb0
+}
+
+.theme-river .page-control .control li:hover {
+    background: #fb0
+}
+
+.theme-river .blog-item-two .news .news-post h3 a:hover,
+.theme-river .comments .media-list .media-body .comment-date li {
+    color: #fb0
+}
+
+.theme-river .comments h3:after,
+.theme-river .user-comments h3:after {
+    background: #fb0
+}
+
+.theme-river .expart-team .team-member .overlay h3 {
+    color: #fb0
+}
+
+.theme-river .expart-team .team-member .overlay span:after {
+    background: #fb0
+}
+
+.theme-river .team-details .team-caption .content .dt-social-link li a:hover,
+.theme-river .team-details .team-caption .content span {
+    color: #fb0
+}
+
+.theme-river .contact .contact-title h3:after {
+    background: #fb0
+}
+
+.theme-river .contact .form-input input,
+.theme-river .contact .textarea #dt-massage {
+    outline-color: #fb0
+}
+
+.theme-river .contact .contact-btn {
+    background: #fb0
+}
+
+.theme-river .contact-address .contant-info .icon i {
+    color: #fb0
+}
+
+.theme-turquoise .dt-btn:hover {
+    border-color: #1abc9c
+}
+
+.theme-turquoise .dt-btn:after {
+    background: #1abc9c
+}
+
+.theme-turquoise .dt-btn-white:hover {
+    border-color: #fff
+}
+
+.theme-turquoise .btn-skew {
+    border: 2px solid #1abc9c
+}
+
+.theme-turquoise .btn-skew:after {
+    background: #1abc9c
+}
+
+.theme-turquoise .section-title:after {
+    background: #1abc9c!important
+}
+
+.theme-turquoise .dt-social-link li a:hover {
+    color: #1abc9c
+}
+
+.theme-turquoise .navbar .navbar-nav li a:hover {
+    color: #1abc9c!important
+}
+
+.theme-turquoise .navbar .navbar-nav li .child-menu li:hover {
+    background-color: #1abc9c
+}
+
+.theme-turquoise .navbar .navbar-nav li .child-menu li:hover a {
+    color: #fff!important;
+    display: block
+}
+
+.theme-turquoise .feature .overlay-content {
+    background-color: rgba(26, 188, 156, .8)
+}
+
+.theme-turquoise .feature-item .featured .item-icon {
+    border-color: #1abc9c
+}
+
+.theme-turquoise .feature-item .featured .item-icon i,
+.theme-turquoise .feature-item .featured:hover .item-icon {
+    background: #1abc9c
+}
+
+.theme-turquoise .counter .count-item {
+    border-color: #1abc9c
+}
+
+.theme-turquoise .counter .count-item:after,
+.theme-turquoise .counter .count-item:before {
+    background: #1abc9c
+}
+
+.theme-turquoise progress {
+    background-color: #1abc9c
+}
+
+.theme-turquoise progress::-webkit-progress-value {
+    background-color: #1abc9c
+}
+
+.theme-turquoise progress::-moz-progress-bar {
+    background-color: #1abc9c
+}
+
+.theme-turquoise .owl-dots .owl-dot.active span,
+.theme-turquoise .owl-dots .owl-dot:hover span {
+    background: #1abc9c
+}
+
+.theme-turquoise #letest-news .news-caption .news-title a:hover,
+.theme-turquoise .team .team-member .overlay .name h3 {
+    color: #1abc9c
+}
+
+.theme-turquoise .map {
+    background: #1abc9c
+}
+
+.theme-turquoise #feature-two .feature .feature-box:hover i,
+.theme-turquoise .copyright-bar p a,
+.theme-turquoise .dt-service-menu li a:hover,
+.theme-turquoise .footer-menu li a:hover,
+.theme-turquoise .news-item .news-content span {
+    color: #1abc9c
+}
+
+.theme-turquoise #theme .theme-discription p:before {
+    background: #1abc9c
+}
+
+.theme-turquoise .aboute-caption .aboute-title span,
+.theme-turquoise .client-details .details .dt-social-link li a:hover,
+.theme-turquoise .client-details .details h5 {
+    color: #1abc9c
+}
+
+.theme-turquoise .aboute-caption .aboute-details p:before {
+    background: #1abc9c
+}
+
+.theme-turquoise #team-two .swiper-slide .slider-content h4 {
+    color: #1abc9c
+}
+
+.theme-turquoise .design-item .design .icon-box:hover {
+    background-color: rgba(231, 76, 60, .2)
+}
+
+.theme-turquoise .design-item .design .icon-box:hover:after {
+    background-color: rgba(231, 76, 60, .4)
+}
+
+.theme-turquoise .design-item .design .icon-box:hover i {
+    background: #1abc9c
+}
+
+.theme-turquoise .design-content .desing-caption span,
+.theme-turquoise .design-details li i {
+    color: #1abc9c
+}
+
+.theme-turquoise #feature-top-three .feature-items .box .feature-thumb .overlay {
+    background-color: rgba(230, 126, 34, .7)
+}
+
+.theme-turquoise .insu-support .support:hover .support-logo i,
+.theme-turquoise .insu-support .support:hover .support-title h5,
+.theme-turquoise .page-banner .banner-title p span {
+    color: #1abc9c
+}
+
+.theme-turquoise .widget .widget-title:after {
+    background: #1abc9c
+}
+
+.theme-turquoise .download li:hover a,
+.theme-turquoise .download li:hover i,
+.theme-turquoise .widget_nav_menu ul li a:hover {
+    color: #1abc9c
+}
+
+.theme-turquoise .dt-tag a:hover {
+    background: #1abc9c
+}
+
+.theme-turquoise .blog-all-item .news .post-date a,
+.theme-turquoise .blog-all-item .news h3 a:hover,
+.theme-turquoise .widget_archive ul li:hover a,
+.theme-turquoise .widget_archive ul li:hover p,
+.theme-turquoise .widget_recent_entries .resent-post .post-content .post-date li,
+.theme-turquoise .widget_recent_entries .resent-post .post-content h5 a:hover {
+    color: #1abc9c
+}
+
+.theme-turquoise .page-control .control li:hover {
+    background: #1abc9c
+}
+
+.theme-turquoise .blog-item-two .news .news-post h3 a:hover,
+.theme-turquoise .comments .media-list .media-body .comment-date li {
+    color: #1abc9c
+}
+
+.theme-turquoise .comments h3:after,
+.theme-turquoise .user-comments h3:after {
+    background: #1abc9c
+}
+
+.theme-turquoise .expart-team .team-member .overlay h3 {
+    color: #1abc9c
+}
+
+.theme-turquoise .expart-team .team-member .overlay span:after {
+    background: #1abc9c
+}
+
+.theme-turquoise .team-details .team-caption .content .dt-social-link li a:hover,
+.theme-turquoise .team-details .team-caption .content span {
+    color: #1abc9c
+}
+
+.theme-turquoise .contact .contact-title h3:after {
+    background: #1abc9c
+}
+
+.theme-turquoise .contact .form-input input,
+.theme-turquoise .contact .textarea #dt-massage {
+    outline-color: #1abc9c
+}
+
+.theme-turquoise .contact .contact-btn {
+    background: #1abc9c
+}
+
+.theme-turquoise .contact-address .contant-info .icon i {
+    color: #1abc9c
+}
+
+.theme-emerald .dt-btn:hover {
+    border-color: #2ecc71
+}
+
+.theme-emerald .dt-btn:after {
+    background: #2ecc71
+}
+
+.theme-emerald .dt-btn-white:hover {
+    border-color: #fff
+}
+
+.theme-emerald .btn-skew {
+    border: 2px solid #2ecc71
+}
+
+.theme-emerald .btn-skew:after {
+    background: #2ecc71
+}
+
+.theme-emerald .section-title:after {
+    background: #2ecc71!important
+}
+
+.theme-emerald .dt-social-link li a:hover {
+    color: #2ecc71
+}
+
+.theme-emerald .navbar .navbar-nav li a:hover {
+    color: #2ecc71!important
+}
+
+.theme-emerald .navbar .navbar-nav li .child-menu li:hover {
+    background-color: #2ecc71
+}
+
+.theme-emerald .navbar .navbar-nav li .child-menu li:hover a {
+    color: #fff!important;
+    display: block
+}
+
+.theme-emerald .feature .overlay-content {
+    background-color: rgba(46, 204, 113, .8)
+}
+
+.theme-emerald .feature-item .featured .item-icon {
+    border-color: #2ecc71
+}
+
+.theme-emerald .feature-item .featured .item-icon i,
+.theme-emerald .feature-item .featured:hover .item-icon {
+    background: #2ecc71
+}
+
+.theme-emerald .counter .count-item {
+    border-color: #2ecc71
+}
+
+.theme-emerald .counter .count-item:after,
+.theme-emerald .counter .count-item:before {
+    background: #2ecc71
+}
+
+.theme-emerald progress {
+    background-color: #2ecc71
+}
+
+.theme-emerald progress::-webkit-progress-value {
+    background-color: #2ecc71
+}
+
+.theme-emerald progress::-moz-progress-bar {
+    background-color: #2ecc71
+}
+
+.theme-emerald .owl-dots .owl-dot.active span,
+.theme-emerald .owl-dots .owl-dot:hover span {
+    background: #2ecc71
+}
+
+.theme-emerald #letest-news .news-caption .news-title a:hover,
+.theme-emerald .team .team-member .overlay .name h3 {
+    color: #2ecc71
+}
+
+.theme-emerald .map {
+    background: #2ecc71
+}
+
+.theme-emerald #feature-two .feature .feature-box:hover i,
+.theme-emerald .copyright-bar p a,
+.theme-emerald .dt-service-menu li a:hover,
+.theme-emerald .footer-menu li a:hover,
+.theme-emerald .news-item .news-content span {
+    color: #2ecc71
+}
+
+.theme-emerald #theme .theme-discription p:before {
+    background: #2ecc71
+}
+
+.theme-emerald .aboute-caption .aboute-title span,
+.theme-emerald .client-details .details .dt-social-link li a:hover,
+.theme-emerald .client-details .details h5 {
+    color: #2ecc71
+}
+
+.theme-emerald .aboute-caption .aboute-details p:before {
+    background: #2ecc71
+}
+
+.theme-emerald #team-two .swiper-slide .slider-content h4 {
+    color: #2ecc71
+}
+
+.theme-emerald .design-item .design .icon-box:hover {
+    background-color: rgba(231, 76, 60, .2)
+}
+
+.theme-emerald .design-item .design .icon-box:hover:after {
+    background-color: rgba(231, 76, 60, .4)
+}
+
+.theme-emerald .design-item .design .icon-box:hover i {
+    background: #2ecc71
+}
+
+.theme-emerald .design-content .desing-caption span,
+.theme-emerald .design-details li i {
+    color: #2ecc71
+}
+
+.theme-emerald #feature-top-three .feature-items .box .feature-thumb .overlay {
+    background-color: rgba(230, 126, 34, .7)
+}
+
+.theme-emerald .insu-support .support:hover .support-logo i,
+.theme-emerald .insu-support .support:hover .support-title h5,
+.theme-emerald .page-banner .banner-title p span {
+    color: #2ecc71
+}
+
+.theme-emerald .widget .widget-title:after {
+    background: #2ecc71
+}
+
+.theme-emerald .download li:hover a,
+.theme-emerald .download li:hover i,
+.theme-emerald .widget_nav_menu ul li a:hover {
+    color: #2ecc71
+}
+
+.theme-emerald .dt-tag a:hover {
+    background: #2ecc71
+}
+
+.theme-emerald .blog-all-item .news .post-date a,
+.theme-emerald .blog-all-item .news h3 a:hover,
+.theme-emerald .widget_archive ul li:hover a,
+.theme-emerald .widget_archive ul li:hover p,
+.theme-emerald .widget_recent_entries .resent-post .post-content .post-date li,
+.theme-emerald .widget_recent_entries .resent-post .post-content h5 a:hover {
+    color: #2ecc71
+}
+
+.theme-emerald .page-control .control li:hover {
+    background: #2ecc71
+}
+
+.theme-emerald .blog-item-two .news .news-post h3 a:hover,
+.theme-emerald .comments .media-list .media-body .comment-date li {
+    color: #2ecc71
+}
+
+.theme-emerald .comments h3:after,
+.theme-emerald .user-comments h3:after {
+    background: #2ecc71
+}
+
+.theme-emerald .expart-team .team-member .overlay h3 {
+    color: #2ecc71
+}
+
+.theme-emerald .expart-team .team-member .overlay span:after {
+    background: #2ecc71
+}
+
+.theme-emerald .team-details .team-caption .content .dt-social-link li a:hover,
+.theme-emerald .team-details .team-caption .content span {
+    color: #2ecc71
+}
+
+.theme-emerald .contact .contact-title h3:after {
+    background: #2ecc71
+}
+
+.theme-emerald .contact .form-input input,
+.theme-emerald .contact .textarea #dt-massage {
+    outline-color: #2ecc71
+}
+
+.theme-emerald .contact .contact-btn {
+    background: #2ecc71
+}
+
+.theme-emerald .contact-address .contant-info .icon i {
+    color: #2ecc71
+}
+
+.theme-asphalt .dt-btn:hover {
+    border-color: #34495e
+}
+
+.theme-asphalt .dt-btn:after {
+    background: #34495e
+}
+
+.theme-asphalt .dt-btn-white:hover {
+    border-color: #fff
+}
+
+.theme-asphalt .btn-skew {
+    border: 2px solid #34495e
+}
+
+.theme-asphalt .btn-skew:after {
+    background: #34495e
+}
+
+.theme-asphalt .section-title:after {
+    background: #34495e!important
+}
+
+.theme-asphalt .dt-social-link li a:hover {
+    color: #34495e
+}
+
+.theme-asphalt .navbar .navbar-nav li a:hover {
+    color: #34495e!important
+}
+
+.theme-asphalt .navbar .navbar-nav li .child-menu li:hover {
+    background-color: #34495e
+}
+
+.theme-asphalt .navbar .navbar-nav li .child-menu li:hover a {
+    color: #fff!important;
+    display: block
+}
+
+.theme-asphalt .feature .overlay-content {
+    background-color: rgba(52, 73, 94, .8)
+}
+
+.theme-asphalt .feature-item .featured .item-icon {
+    border-color: #34495e
+}
+
+.theme-asphalt .feature-item .featured .item-icon i,
+.theme-asphalt .feature-item .featured:hover .item-icon {
+    background: #34495e
+}
+
+.theme-asphalt .counter .count-item {
+    border-color: #34495e
+}
+
+.theme-asphalt .counter .count-item:after,
+.theme-asphalt .counter .count-item:before {
+    background: #34495e
+}
+
+.theme-asphalt progress {
+    background-color: #34495e
+}
+
+.theme-asphalt progress::-webkit-progress-value {
+    background-color: #34495e
+}
+
+.theme-asphalt progress::-moz-progress-bar {
+    background-color: #34495e
+}
+
+.theme-asphalt .owl-dots .owl-dot.active span,
+.theme-asphalt .owl-dots .owl-dot:hover span {
+    background: #34495e
+}
+
+.theme-asphalt #letest-news .news-caption .news-title a:hover,
+.theme-asphalt .team .team-member .overlay .name h3 {
+    color: #34495e
+}
+
+.theme-asphalt .map {
+    background: #34495e
+}
+
+.theme-asphalt #feature-two .feature .feature-box:hover i,
+.theme-asphalt .copyright-bar p a,
+.theme-asphalt .dt-service-menu li a:hover,
+.theme-asphalt .footer-menu li a:hover,
+.theme-asphalt .news-item .news-content span {
+    color: #34495e
+}
+
+.theme-asphalt #theme .theme-discription p:before {
+    background: #34495e
+}
+
+.theme-asphalt .aboute-caption .aboute-title span,
+.theme-asphalt .client-details .details .dt-social-link li a:hover,
+.theme-asphalt .client-details .details h5 {
+    color: #34495e
+}
+
+.theme-asphalt .aboute-caption .aboute-details p:before {
+    background: #34495e
+}
+
+.theme-asphalt #team-two .swiper-slide .slider-content h4 {
+    color: #34495e
+}
+
+.theme-asphalt .design-item .design .icon-box:hover {
+    background-color: rgba(231, 76, 60, .2)
+}
+
+.theme-asphalt .design-item .design .icon-box:hover:after {
+    background-color: rgba(231, 76, 60, .4)
+}
+
+.theme-asphalt .design-item .design .icon-box:hover i {
+    background: #34495e
+}
+
+.theme-asphalt .design-content .desing-caption span,
+.theme-asphalt .design-details li i {
+    color: #34495e
+}
+
+.theme-asphalt #feature-top-three .feature-items .box .feature-thumb .overlay {
+    background-color: rgba(230, 126, 34, .7)
+}
+
+.theme-asphalt .insu-support .support:hover .support-logo i,
+.theme-asphalt .insu-support .support:hover .support-title h5,
+.theme-asphalt .page-banner .banner-title p span {
+    color: #34495e
+}
+
+.theme-asphalt .widget .widget-title:after {
+    background: #34495e
+}
+
+.theme-asphalt .download li:hover a,
+.theme-asphalt .download li:hover i,
+.theme-asphalt .widget_nav_menu ul li a:hover {
+    color: #34495e
+}
+
+.theme-asphalt .dt-tag a:hover {
+    background: #34495e
+}
+
+.theme-asphalt .blog-all-item .news .post-date a,
+.theme-asphalt .blog-all-item .news h3 a:hover,
+.theme-asphalt .widget_archive ul li:hover a,
+.theme-asphalt .widget_archive ul li:hover p,
+.theme-asphalt .widget_recent_entries .resent-post .post-content .post-date li,
+.theme-asphalt .widget_recent_entries .resent-post .post-content h5 a:hover {
+    color: #34495e
+}
+
+.theme-asphalt .page-control .control li:hover {
+    background: #34495e
+}
+
+.theme-asphalt .blog-item-two .news .news-post h3 a:hover,
+.theme-asphalt .comments .media-list .media-body .comment-date li {
+    color: #34495e
+}
+
+.theme-asphalt .comments h3:after,
+.theme-asphalt .user-comments h3:after {
+    background: #34495e
+}
+
+.theme-asphalt .expart-team .team-member .overlay h3 {
+    color: #34495e
+}
+
+.theme-asphalt .expart-team .team-member .overlay span:after {
+    background: #34495e
+}
+
+.theme-asphalt .team-details .team-caption .content .dt-social-link li a:hover,
+.theme-asphalt .team-details .team-caption .content span {
+    color: #34495e
+}
+
+.theme-asphalt .contact .contact-title h3:after {
+    background: #34495e
+}
+
+.theme-asphalt .contact .form-input input,
+.theme-asphalt .contact .textarea #dt-massage {
+    outline-color: #34495e
+}
+
+.theme-asphalt .contact .contact-btn {
+    background: #34495e
+}
+
+.theme-asphalt .contact-address .contant-info .icon i {
+    color: #34495e
+}

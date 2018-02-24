@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test</title>
+	<style type="text/css">
+		.test{
+			border:1px solid #777;
+			margin: 5% auto;
+			height: 400px;
+			width: 900px;
+			}
+
+		.in-test{
+			background:#f00;
+			border-radius: 0 200px 200px 0;
+			box-shadow: inset -117px 0px 0 -39px #fff;
+			position: relative;
+			height: 400px;
+			width: 600px;
+			}
+
+
+		.in-test::after{
+			content: "";
+			position: absolute;
+			top: 0;
+		    right:-5px;
+		    border-radius: 0 200px 200px 0;
+		    box-shadow: inset -117px 0px 0 -39px #fff;
+		    background: transparent;
+			height: 400px;
+			width: 200px;
+			}
+
+
+	</style>
+</head>
+<body>
+<div class="test">
+	<div class="in-test">
+		
+	</div>
+</div>
+</body>
+</html>
+
